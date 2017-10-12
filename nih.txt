@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ﻿welcome to xingyishi!
 北京欢饮你
+=======
+welcome to xingyi!
+>>>>>>> remotes/origin/one
